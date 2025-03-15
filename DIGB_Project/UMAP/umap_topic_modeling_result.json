@@ -1,0 +1,263 @@
+[
+    {
+        "Step": 0,
+        "result": {
+            "Cluster_0": ["interested", "likely", "study", "particularly", "understanding"],
+            "Cluster_1": ["interested", "energy", "particularly", "potential", "experience"],
+            "Cluster_2": ["interested", "health", "person", "understanding", "education"],
+            "Cluster_3": ["interested", "history", "particularly", "specializes", "historian"]
+        }
+    },
+    {
+        "Step": 1,
+        "result": {
+            "Cluster_0": ["likely", "study", "understanding", "animals", "species"],
+            "Cluster_1": ["energy", "potential", "experience", "use", "systems"],
+            "Cluster_2": ["health", "person", "education", "understanding", "standards"],
+            "Cluster_3": ["history", "specializes", "study", "historian", "work"]
+        }
+    },
+    {
+        "Step": 2,
+        "result": {
+            "Cluster_0": ["likely", "animals", "species", "individual", "specializes"],
+            "Cluster_1": ["energy", "potential", "experience", "use", "systems"],
+            "Cluster_2": ["health", "education", "knowledgeable", "standards", "students"],
+            "Cluster_3": ["history", "specializes", "historian", "work", "knowledgeable"]
+        }
+    },
+    {
+        "Step": 3,
+        "result": {
+            "Cluster_0": ["likely", "animals", "species", "individual", "involved"],
+            "Cluster_1": ["energy", "experience", "potential", "use", "systems"],
+            "Cluster_2": ["health", "education", "standards", "students", "land"],
+            "Cluster_3": ["history", "historian", "work", "development", "languages"]
+        }
+    },
+    {
+        "Step": 4,
+        "result": {
+            "Cluster_0": ["species", "animals", "development", "impact", "biology"],
+            "Cluster_1": ["energy", "experience", "potential", "use", "systems"],
+            "Cluster_2": ["health", "education", "standards", "students", "strong"],
+            "Cluster_3": ["history", "historian", "work", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 5,
+        "result": {
+            "Cluster_0": ["species", "animals", "development", "biology", "impact"],
+            "Cluster_1": ["energy", "potential", "use", "systems", "familiar"],
+            "Cluster_2": ["health", "education", "standards", "students", "potential"],
+            "Cluster_3": ["history", "historian", "languages", "development", "ancient"]
+        }
+    },
+    {
+        "Step": 6,
+        "result": {
+            "Cluster_0": ["animals", "species", "impact", "biology", "role"],
+            "Cluster_1": ["energy", "use", "systems", "skilled", "water"],
+            "Cluster_2": ["health", "education", "standards", "students", "land"],
+            "Cluster_3": ["history", "historian", "languages", "medieval", "ancient"]
+        }
+    },
+    {
+        "Step": 7,
+        "result": {
+            "Cluster_0": ["species", "animals", "biology", "impact", "factors"],
+            "Cluster_1": ["energy", "use", "systems", "technologies", "water"],
+            "Cluster_2": ["health", "education", "students", "land", "dedicated"],
+            "Cluster_3": ["history", "historian", "languages", "medieval", "ancient"]
+        }
+    },
+    {
+        "Step": 8,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "water", "security"],
+            "Cluster_2": ["health", "education", "students", "global", "nutrition"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 9,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "water", "looking"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "natural"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 10,
+        "result": {
+            "Cluster_0": ["species", "animals", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "water", "space"],
+            "Cluster_2": ["health", "education", "students", "help", "nutrition"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 11,
+        "result": {
+            "Cluster_0": ["animals", "species", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "water", "materials"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "reclamation"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 12,
+        "result": {
+            "Cluster_0": ["animals", "species", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "water", "materials"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "water"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 13,
+        "result": {
+            "Cluster_0": ["animals", "species", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "scientist", "importance"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "importance"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 14,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "new", "performance"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "technology"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 15,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "aware", "scientist"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "environmental"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 16,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "research", "materials"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "theorem"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 17,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "use", "systems", "research", "materials"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "theorem"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 18,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "genetic"],
+            "Cluster_1": ["energy", "materials", "gas", "drilling", "performance"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "committed"],
+            "Cluster_3": ["history", "historian", "medieval", "ancient", "languages"]
+        }
+    },
+    {
+        "Step": 19,
+        "result": {
+            "Cluster_0": ["species", "animals", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "materials", "gas", "drilling", "software"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "deep"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 20,
+        "result": {
+            "Cluster_0": ["species", "animals", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "gas", "materials", "drilling", "engineering"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "field"],
+            "Cluster_3": ["history", "historian", "ancient", "medieval", "languages"]
+        }
+    },
+    {
+        "Step": 21,
+        "result": {
+            "Cluster_0": ["animals", "species", "impact", "biology", "behavior"],
+            "Cluster_1": ["energy", "gas", "drilling", "materials", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "effects"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 22,
+        "result": {
+            "Cluster_0": ["species", "animals", "biology", "impact", "genetic"],
+            "Cluster_1": ["energy", "gas", "drilling", "materials", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "state"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 23,
+        "result": {
+            "Cluster_0": ["species", "animals", "biology", "impact", "genetic"],
+            "Cluster_1": ["energy", "materials", "gas", "drilling", "engineering"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "passionate"],
+            "Cluster_3": ["history", "historian", "languages", "ancient", "medieval"]
+        }
+    },
+    {
+        "Step": 24,
+        "result": {
+            "Cluster_0": ["species", "animals", "biology", "impact", "genetic"],
+            "Cluster_1": ["energy", "gas", "materials", "drilling", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "learning"],
+            "Cluster_3": ["history", "historian", "ancient", "medieval", "languages"]
+        }
+    },
+    {
+        "Step": 25,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "drilling", "materials", "gas", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "flow"],
+            "Cluster_3": ["history", "historian", "medieval", "languages", "ancient"]
+        }
+    },
+    {
+        "Step": 26,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "drilling", "materials", "gas", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "school"],
+            "Cluster_3": ["history", "historian", "medieval", "languages", "ancient"]
+        }
+    },
+    {
+        "Step": 27,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "drilling", "materials", "gas", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "statements"],
+            "Cluster_3": ["history", "historian", "medieval", "languages", "ancient"]
+        }
+    },
+    {
+        "Step": 28,
+        "result": {
+            "Cluster_0": ["animals", "species", "biology", "impact", "behavior"],
+            "Cluster_1": ["energy", "drilling", "materials", "gas", "cooling"],
+            "Cluster_2": ["health", "education", "students", "nutrition", "responsible"],
+            "Cluster_3": ["history", "historian", "medieval", "languages", "ancient"]
+        }
+    }
+]

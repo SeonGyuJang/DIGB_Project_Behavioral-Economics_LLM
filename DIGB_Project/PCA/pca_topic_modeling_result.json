@@ -1,0 +1,236 @@
+[
+    {
+        "Step": 0,
+        "result": {
+            "Cluster_0": ["interested", "particularly", "likely", "person", "understanding"],
+            "Cluster_1": ["interested", "use", "particularly", "skilled", "experience"],
+            "Cluster_2": ["history", "interested", "particularly", "historian", "work"],
+            "Cluster_3": ["interested", "likely", "study", "understanding", "individual"]
+        }
+    },
+    {
+        "Step": 1,
+        "result": {
+            "Cluster_0": ["potential", "knowledgeable", "able", "development", "context"],
+            "Cluster_1": ["energy", "specializes", "familiar", "knowledgeable", "systems"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "specializes"],
+            "Cluster_3": ["animals", "species", "environmental", "potential", "factors"]
+        }
+    },
+    {
+        "Step": 2,
+        "result": {
+            "Cluster_0": ["land", "education", "involved", "technology", "reclamation"],
+            "Cluster_1": ["energy", "aware", "management", "health", "field"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "science", "biology"]
+        }
+    },
+    {
+        "Step": 3,
+        "result": {
+            "Cluster_0": ["education", "land", "languages", "technology", "students"],
+            "Cluster_1": ["energy", "importance", "materials", "used", "water"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "impact"],
+            "Cluster_3": ["animals", "environmental", "species", "genetic", "behavior"]
+        }
+    },
+    {
+        "Step": 4,
+        "result": {
+            "Cluster_0": ["education", "languages", "technology", "students", "background"],
+            "Cluster_1": ["energy", "materials", "water", "looking", "deep"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "biology", "scientist"]
+        }
+    },
+    {
+        "Step": 5,
+        "result": {
+            "Cluster_0": ["education", "technology", "languages", "students", "cancer"],
+            "Cluster_1": ["energy", "water", "materials", "methods", "security"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "natural"]
+        }
+    },
+    {
+        "Step": 6,
+        "result": {
+            "Cluster_0": ["education", "technology", "languages", "students", "theorem"],
+            "Cluster_1": ["energy", "water", "materials", "space", "drilling"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "human"]
+        }
+    },
+    {
+        "Step": 7,
+        "result": {
+            "Cluster_0": ["education", "languages", "technology", "students", "biological"],
+            "Cluster_1": ["energy", "materials", "water", "new", "technologies"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 8,
+        "result": {
+            "Cluster_0": ["education", "technology", "students", "languages", "sign"],
+            "Cluster_1": ["energy", "materials", "water", "drilling", "different"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "science", "biology"]
+        }
+    },
+    {
+        "Step": 9,
+        "result": {
+            "Cluster_0": ["education", "languages", "students", "technology", "language"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "gas"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 10,
+        "result": {
+            "Cluster_0": ["education", "students", "technology", "languages", "learning"],
+            "Cluster_1": ["energy", "materials", "water", "gas", "technologies"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 11,
+        "result": {
+            "Cluster_0": ["education", "technology", "students", "languages", "weapons"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 12,
+        "result": {
+            "Cluster_0": ["education", "technology", "languages", "students", "wildlife"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 13,
+        "result": {
+            "Cluster_0": ["education", "languages", "students", "technology", "words"],
+            "Cluster_1": ["energy", "materials", "water", "drilling", "gas"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 14,
+        "result": {
+            "Cluster_0": ["education", "languages", "technology", "students", "man"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 15,
+        "result": {
+            "Cluster_0": ["education", "technology", "students", "languages", "keen"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "environmental", "species", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 16,
+        "result": {
+            "Cluster_0": ["education", "languages", "technology", "students", "production"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 17,
+        "result": {
+            "Cluster_0": ["education", "students", "technology", "languages", "particular"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "scientist", "behavior"]
+        }
+    },
+    {
+        "Step": 18,
+        "result": {
+            "Cluster_0": ["education", "students", "technology", "languages", "strong"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "medieval", "ancient", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "biology", "scientist"]
+        }
+    },
+    {
+        "Step": 19,
+        "result": {
+            "Cluster_0": ["education", "students", "technology", "languages", "various"],
+            "Cluster_1": ["energy", "water", "materials", "technologies", "gas"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "behavior", "scientist"]
+        }
+    },
+    {
+        "Step": 20,
+        "result": {
+            "Cluster_0": ["education", "languages", "technology", "students", "cases"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "biology", "science"]
+        }
+    },
+    {
+        "Step": 21,
+        "result": {
+            "Cluster_0": ["education", "languages", "students", "technology", "research"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "drilling"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "biology", "science"]
+        }
+    },
+    {
+        "Step": 22,
+        "result": {
+            "Cluster_0": ["education", "students", "technology", "languages", "subtitling"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "gas"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "science", "biology"]
+        }
+    },
+    {
+        "Step": 23,
+        "result": {
+            "Cluster_0": ["education", "students", "languages", "technology", "standards"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "gas"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "science", "biology"]
+        }
+    },
+    {
+        "Step": 24,
+        "result": {
+            "Cluster_0": ["education", "technology", "languages", "students", "effectively"],
+            "Cluster_1": ["energy", "materials", "water", "technologies", "gas"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "science", "biology"]
+        }
+    },
+    {
+        "Step": 25,
+        "result": {
+            "Cluster_0": ["education", "technology", "students", "languages", "ai"],
+            "Cluster_1": ["energy", "materials", "water", "gas", "technologies"],
+            "Cluster_2": ["history", "historian", "ancient", "medieval", "geography"],
+            "Cluster_3": ["animals", "species", "environmental", "science", "biology"]
+        }
+    }
+]
